@@ -1,4 +1,4 @@
-This is a repository for testing open source llms from HunggingFace and deploying them to AWS.
+This is a repository includes sample script for running open source llms from HunggingFace, and how to use LlamaIndex.
 
 # How to Run LLM Script With Docker
 
